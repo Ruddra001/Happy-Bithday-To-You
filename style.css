@@ -1,0 +1,37 @@
+.body_backgorund 
+{
+    background-image:url('hOye.gif');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#myCanvas
+{
+   border-width: 10px;   
+   background-color: white;
+   border-style: ridge;
+   border-color: blueviolet;
+
+}
+
+#Boostrap_Button 
+{
+    background-color: aqua;
+    border-style:groove;
+    font-family: fantasy;
+    padding: 5px;
+    font-size: large;
+    width: 200px;
+    height: 150px;
+    border-width: 4px;
+    border-radius: 35px;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#Boostrap_Button:active
+{
+    font-size: 23px;
+}
+
